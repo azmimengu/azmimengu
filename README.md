@@ -30,17 +30,18 @@ I have development and team management experience with high-traffic, real-time m
 ## Skills
 
 <p align="left">
-<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width=40 height=40/> </a>
-<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript"/> </a>
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=40 height=40 alt="amazon web services"/>  </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" width=40 height=40 alt="java"/> </a>
-<a href="https://www.docker.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" width=40 height=40 alt="docker"/> </a>
-<a href="https://www.mongodb.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width=40 height=40 alt="mongodb"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" width=40 height=40 alt="postgresql"/> </a>
-<a href="https://www.mysql.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" width=40 height=40 alt="mysql"/> </a>
-<a href="https://redis.io" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/redis/redis-original-wordmark.svg" width=40 height=40 alt="redis"/> </a>
-<a href="https://www.docker.com" target="_blank"> <img src="icons/apache-kafka-icon.svg" width=40 height=40 alt="kafka"/> </a>
-<a href="https://www.rabbitmq.com" target="_blank"> <img src="icons/rabbitmq-icon.svg" width=40 height=40 alt="rabbitmq"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width=40 height=40/></a>
+<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript"/></a>
+<a href="https://graphql.org" target="_blank"> <img src="https://graphql.org/img/logo.svg" alt="graphql" width=40 height=40/></a>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=40 height=40 alt="amazon web services"/></a>
+<a href="https://www.java.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" width=40 height=40 alt="java"/></a>
+<a href="https://www.docker.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" width=40 height=40 alt="docker"/></a>
+<a href="https://www.mongodb.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width=40 height=40 alt="mongodb"/></a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" width=40 height=40 alt="postgresql"/></a>
+<a href="https://www.mysql.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" width=40 height=40 alt="mysql"/></a>
+<a href="https://redis.io" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/redis/redis-original-wordmark.svg" width=40 height=40 alt="redis"/></a>
+<a href="https://www.docker.com" target="_blank"> <img src="icons/apache-kafka-icon.svg" width=40 height=40 alt="kafka"/></a>
+<a href="https://www.rabbitmq.com" target="_blank"> <img src="icons/rabbitmq-icon.svg" width=40 height=40 alt="rabbitmq"/></a>
 </p>
 
 
