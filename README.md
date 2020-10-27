@@ -47,9 +47,10 @@ I have development and team management experience with high-traffic, real-time m
 
 ## Stay connected
 <p align="left">
-<a href="https://twitter.com/azmimengu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="azmimengu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/azmi-mengu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="azmimengu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC3rZqVuyHJ_3-TDWKOYd-Vw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cloud and serverless turkey" height="30" width="40" /></a>
+<a href="https://twitter.com/azmimengu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="azmimengu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/azmi-mengu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="azmimengu" height="30" width="40" /></a>
+<a href="https://azmimengu.medium.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="azmimengu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3rZqVuyHJ_3-TDWKOYd-Vw" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="cloud and serverless turkey" height="30" width="40" /></a>
 </p>
 
 
