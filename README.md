@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Azmi.</h1>
 
-<h3 align="center">Software Architect, AWS Community Builder</h3>
+<h3 align="center">Software Architect, AWS Community Hero</h3>
 <h1 align="center">
     <a href="https://twitter.com/azmimengu" target="_blank"> 
     <img src= "https://img.shields.io/twitter/follow/azmimengu?logo=twitter&style=for-the-badge" alt="azmimengu" height=20> </img>
