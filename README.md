@@ -30,7 +30,8 @@ I have development and team management experience with high-traffic, real-time m
 ## Skills
 
 <p align="left">
-<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width=40 height=40/></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"/>
+</a>
 <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript"/></a>
 <a href="https://graphql.org" target="_blank"> <img src="https://graphql.org/img/logo.svg" alt="graphql" width=40 height=40/></a>
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=40 height=40 alt="amazon web services"/></a>
